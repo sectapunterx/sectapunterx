@@ -23,10 +23,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sectapunterx&repo=Pseudorandom_numbers&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/sectapunterx/Pseudorandom_numbers)
 
 
-<h1 align="center">
- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
- WakaTime States </a> 
-<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
-
-[![Kiko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kiko&layout=compact&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
