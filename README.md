@@ -16,6 +16,8 @@
  My Projects </a> 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sectapunterx&repo=vector&hide_border=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/sectapunterx/vector)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sectapunterx&repo=GStream-practice&hide_border=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/sectapunterx/GStream-practice)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sectapunterx&repo=Arduino_Sensors&hide_border=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/sectapunterx/Arduino_Sensors)
